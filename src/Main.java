@@ -2,7 +2,7 @@ public class Main {
 
     public static void main (String[] args) {
         System.out.println("zadacha1");
-       /* byte Num1=0;
+     //* byte Num1=0;
         short Num2=1;
         int Num3=2;
         long Num4=3;
